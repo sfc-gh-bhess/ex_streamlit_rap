@@ -18,6 +18,7 @@ To follow this example, download the `StreamlitRAP.ipynb` file
 (or alternatively, clone this repository). Then, in Snowflake,
 in the Notebook page, click the down arrow next to the 
 "+ Notebook" button in the upper right, choose "Import .ipynb file", 
-and select the `StreamlitRAP.ipynb` file. 
+and select the `StreamlitRAP.ipynb` file. Then fill out the rest of 
+the details (location, Python environment, etc).
 
 Then just follow along the instructions inside the Notebook.
